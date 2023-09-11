@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "27c808188260f618",
+    "type": "split",
+    "children": [
+      {
+        "id": "e82a73daee547aec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "새로운 무제노트.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44c899ef1c0fa027",
+    "type": "split",
+    "children": [
+      {
+        "id": "194755d831d72bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf84ff487fad8d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b82617d71e6c7d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffca086d0ec28090",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 178.5
+  },
+  "right": {
+    "id": "032d69cd5b5fff62",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ebe84f991f008c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "907d990807383650",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "새로운 무제노트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f314fd01429a280d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "새로운 무제노트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b826bf37da28bc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11fb66704a83cbce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "새로운 무제노트.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e82a73daee547aec",
+  "lastOpenFiles": []
+}

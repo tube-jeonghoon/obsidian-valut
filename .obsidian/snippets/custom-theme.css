@@ -1,0 +1,30 @@
+body {
+  --h2-color: rgb(152, 255, 84);
+  --h3-color: rgb(172, 255, 158);
+  --h4-color: rgb(234, 255, 197);
+
+  
+  --h2-line-height: 4rem;
+  --h3-line-height: 2.5rem;
+  --h4-line-height: 2rem;
+
+  /* --blockquote-color: rgb(222, 167, 167); */
+
+  --callout-radius: 0.7rem;
+  --inline-title-color: rgb(214, 255, 143);
+  --list-spacing: 0.2rem;
+  --list-indent: 3rem;
+}
+
+.cm-strong {
+  color: #9e77ff !important;
+}
+
+.cm-inline-code {
+  color: #e6fff0 !important
+}
+
+.cm-highlight {
+  background-color: #ffd3e2 !important;
+  color: #000 !important;
+}

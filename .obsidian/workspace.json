@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "27c808188260f618",
+    "type": "split",
+    "children": [
+      {
+        "id": "31f85e58c04ec416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "593e494b9f4a026a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44c899ef1c0fa027",
+    "type": "split",
+    "children": [
+      {
+        "id": "194755d831d72bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf84ff487fad8d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b82617d71e6c7d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#hello",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffca086d0ec28090",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "add1565099bb285e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ce26ddbe83413cc",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.50390243530273
+  },
+  "right": {
+    "id": "032d69cd5b5fff62",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ebe84f991f008c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "907d990807383650",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f314fd01429a280d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b826bf37da28bc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11fb66704a83cbce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "c895c487dd5790c2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "534e4f5d77b48fcb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a29959b3f14b1a59",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:새 캔버스 만들기": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "593e494b9f4a026a",
+  "lastOpenFiles": [
+    "Develop/TypeScript/타입스크립트란.md",
+    "README.md",
+    "Develop/TypeScript",
+    "Develop",
+    "DashBoard",
+    "Personal",
+    "Context/Personal.mdb",
+    "무제 파일 7.md",
+    "무제 파일 6.md",
+    "무제 파일.md",
+    "무제 파일 7.canvas",
+    "무제 파일 5.md",
+    "무제 파일 4.md",
+    "무제 파일 3.md",
+    "무제 파일 2.md",
+    "무제 파일 1.md",
+    "_정리전/항해99WIL/항해99 WIL 4주차.md",
+    "_정리전/항해99WIL/항해99WIL.md",
+    "_정리전/무제 파일.md",
+    "_정리전/_정리전.md",
+    "_정리전/무제 파일 2.md",
+    "_정리전/무제 파일 1.md",
+    "_정리전/무제 파일.canvas",
+    "_정리전/무제 파일 3.canvas",
+    "_정리전/무제 파일 2.canvas",
+    "_정리전/무제 파일 1.canvas",
+    "_정리전/가나다.md",
+    "_정리전/첨부파일",
+    "_정리전/첨부파일/스크린샷 2023-04-05 오전 2.26.16.png",
+    "_정리전/1.md",
+    "_정리전/리액트 컴포넌트 생명주기.png.md",
+    "_정리전/정리전.md",
+    "_정리전/항해99 17일차.md",
+    "_정리전/항해99WIL/context.mdb",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "리액트/리액트.md",
+    "_정리전/context.mdb",
+    "textgenerator/prompts/default/getIdeas.md",
+    "textgenerator/prompts/default/getEmailNeg.md",
+    "textgenerator/prompts/default/getEmailPos.md",
+    "textgenerator/prompts/default/simplify.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "첨부파일/리액트 컴포넌트 생명주기.png",
+    "첨부파일/네이버 메인.png",
+    "첨부파일/네이버 일부.png",
+    "AWS/aws-platform.jpeg"
+  ]
+}

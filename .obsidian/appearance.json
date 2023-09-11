@@ -1,0 +1,15 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Atom",
+  "translucency": true,
+  "interfaceFontFamily": "GyeonggiTitleOTF,IBM Plex Sans KR,Pretendard,온글잎 의연체,ELAND ChoiceOTF,Gmarket Sans",
+  "textFontFamily": "omyu pretty,Pretendard,IBM Plex Sans KR,IBM Plex Sans,EF_다이어리,GangwonEduSaeeum OTF,Chosun Centennial,Apple SD Gothic Neo,Andale Mono",
+  "baseFontSize": 16,
+  "accentColor": "#6daa64",
+  "monospaceFontFamily": "JetBrains Mono,Cascadia Code,Source Code Pro,Roboto Mono,GangwonEduSaeeum OTF",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "custom-theme"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "showLineNumber": false,
+  "foldIndent": true,
+  "readableLineLength": true,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "tabSize": 2,
+  "showInlineTitle": true,
+  "attachmentFolderPath": "./첨부 파일",
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "_정리전",
+  "newLinkFormat": "absolute"
+}
